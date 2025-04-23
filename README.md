@@ -1,8 +1,8 @@
-<p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+    <p>
+        <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=282828">
+    </p>
 </div>
-</p>
 
 ```python
 class Person:
@@ -17,3 +17,4 @@ class Person:
 
 if __name__ == '__main__':
     person: Person = Person()
+```
